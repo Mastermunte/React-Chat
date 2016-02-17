@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "workFolder",
+    "style": "css",
+    "postcss": false
+  }
+}
